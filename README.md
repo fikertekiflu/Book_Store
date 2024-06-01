@@ -14,11 +14,11 @@ PDF Downloads for Users
 Technologies Used
 Frontend: HTML, CSS, JavaScript, React.js
 Backend: Node.js, Express.js
-Database: MongoDB
+Database: mySql
 Authentication: JWT (JSON Web Tokens)
 PDF Generation: pdf-lib, html-pdf
-Version Control: Git
-Hosting: [Your hosting service, e.g., Heroku, Vercel]
+Version Control:git 
+
 Installation
 Clone the repository:
 
@@ -85,8 +85,6 @@ Download available books or documents in PDF format from the book details page.
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For any inquiries or issues, please contact [your email] or open an issue on GitHub
