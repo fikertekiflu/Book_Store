@@ -31,7 +31,7 @@ const DarkMode = () => {
             theme === "dark" ? "opacity-0" : "opacity-100"
           } `}
         />
-        <img
+        <img 
           src={darkPng}
           alt="dark"
           onClick={() =>
